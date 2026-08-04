@@ -1,2 +1,3 @@
-# cpp
-collection of C++ programming examples and practice problems
+LOG
+
+1 Created a program to print 'Hello c++'
