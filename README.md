@@ -4,3 +4,5 @@ LOG
  2 Basic C++ class program illustrating object creation, data members, member functions, and the fundamentals of object-oriented programming.
 
 3 cpp: practice consts by making a area of circle calculation program
+
+4 program to find a number is negative or positive
