@@ -13,20 +13,21 @@ int main(){
     }
     int low=0;
     int mid;
-    int high=n;
-   int t=0;
+    int high=n-1;
+   
    int target ;
    cout<<"enter target ";
    cin>>target;
 
- t=0;
-    while(t != 1 ){
+ 
+    while(low <= high){
            mid=(low+high)/2;
            
            if(arr[mid]==target){
             cout<<"target found at" <<mid;
-            t++;
-            break;
+            
+            
+            return 0;
            }
            else if(arr[mid]<target){
             low=mid+1;
@@ -35,6 +36,7 @@ int main(){
             high=mid-1;
            }
     }
+    cout<<"element not found ";
     return 0;
 
 }
