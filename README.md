@@ -1,111 +1,142 @@
-# LOG
+# 💻 C++ Programming Practice
 
-1. Created a program to print 'Hello C++'.
+> A collection of my C++ programs, created while learning programming fundamentals and improving problem-solving skills.
 
-2. Basic C++ class program demonstrating objects, data members, member functions, and the fundamentals of object-oriented programming.
+This repository contains my regular **C++ practice programs**, starting from basic syntax and number problems to arrays, matrices, strings, functions, and Object-Oriented Programming.
 
-3. C++ program to practice constants by calculating the area of a circle.
+---
 
-4. Program to determine whether a number is positive or negative.
+## 📌 What You'll Find
 
-5. Program to find the factorial of a given number.
+| Topic              | Practice Areas                                             |
+| ------------------ | ---------------------------------------------------------- |
+| 🔹 Basics          | Input/Output, Variables, Operators, Conditions             |
+| 🔢 Number Problems | Factorial, GCD, LCM, Fibonacci, Palindrome, Prime          |
+| 🔁 Loops           | Series, Tables, Counting, Number Operations                |
+| 📦 Arrays          | Searching, Sorting, Reversing, Frequency, Missing Elements |
+| 🧮 Matrices        | Addition, Subtraction, Diagonal Sum                        |
+| 🔤 Strings         | Reverse, Palindrome, Case Conversion, Vowels, Words        |
+| ⚙️ Functions       | Cube, Maximum/Minimum, Inline Functions                    |
+| 🧱 OOP             | Class, Object, Constructor, Static Members                 |
+| 🏗️ Structures     | Basic Structure Implementation                             |
 
-6. Program to find the GCD of two numbers.
+---
 
-7. Program to find the greatest among three numbers.
+## 📝 Practice Log
 
-8. Program to perform addition of two matrices.
+### 01 — C++ Fundamentals
 
-9. Program to perform subtraction of two matrices.
+* `first.cpp` — First C++ program
+* `ar.cpp` — Area of a circle using constants
+* `checknumber.cpp` — Check whether a number is positive or negative
+* `fact.cpp` — Find factorial of a number
+* `gcd.cpp` — Find GCD of two numbers
+* `greatest.cpp` — Find greatest among three numbers
+* `sum.cpp` — Sum of first `n` natural numbers
+* `multi.cpp` — Generate multiplication table
+* `fibo.cpp` — Generate Fibonacci series
+* `reverse.cpp` — Reverse a number
+* `palindriome.cpp` — Check number palindrome
+* `count.cpp` — Count digits in a number
+* `lcm.cpp` — Find LCM of two numbers
+* `leap.cpp` — Check leap year
+* `month.cpp` — Find number of days in a month
+* `profitloss.cpp` — Calculate profit or loss
+* `root.cpp` — Find roots of a quadratic equation
+* `triangle.cpp` — Check validity of a triangle
+* `voteregilblity.cpp` — Check voting eligibility
 
-10. Program to calculate the diagonal sum of a matrix.
+### 02 — Number Problems
 
-11. Program to merge two arrays into another array.
+* `perfect_function.cpp` — Check perfect number using function
+* `perfect_interval.cpp` — Find perfect numbers in an interval
+* `prime_interval_function.cpp` — Find prime numbers in an interval
 
-12. Program to find the maximum and minimum elements in an array.
+### 03 — Arrays & Searching
 
-13. Program to find the second largest element in an array.
+* `linear_search.cpp` — Linear search
+* `binaray.cpp` — Binary search
+* `sort_array.cpp` — Sort array elements
+* `reverse_array.cpp` — Reverse an array
+* `maxmin.cpp` — Find maximum and minimum in an array
+* `secondlargest.cpp` — Find second largest element
+* `delete.cpp` — Delete an element from an array
+* `insetar.cpp` — Replace an array element
+* `merge.cpp` — Merge two arrays
+* `negarr.cpp` — Find negative elements in an array
+* `odd_even_array.cpp` — Count odd and even elements
+* `even_odd_array.cpp` — Separate even and odd elements
+* `frequency.cpp` — Find frequency of an element
+* `missing_element.cpp` — Find the first missing element
+* `count_negative.cpp` — Count negative elements in an array
 
-14. Program to sort an array.
+### 04 — Matrices
 
-15. Program to reverse an array.
+* `add_matrix.cpp` — Addition of two matrices
+* `subtract.cpp` — Subtraction of two matrices
+* `digonalsum.cpp` — Find diagonal sum of a matrix
 
-16. Program to delete an element from an array.
+### 05 — Strings
 
-17. Program to replace an element in an array.
+* `rstring.cpp` — Reverse a string
+* `palindromestring.cpp` — Check string palindrome
+* `no_of_vowel.cpp` — Count vowels in a string
+* `count_words.cpp` — Count words in a string
+* `compare_two_string.cpp` — Compare and concatenate strings
+* `copy_string.cpp` — Convert a string to lowercase and uppercase
+* `low_up.cpp` — Toggle case of each character
+* `upper_string.cpp` — Convert the first letter of words to uppercase
+* `upperlowerspdigit.cpp` — Check uppercase, lowercase and digits
 
-18. Program to count negative elements in an array.
+### 06 — Functions
 
-19. Program to count odd and even elements in an array.
+* `cube_function.cpp` — Find cube using a function
+* `max_min_function.cpp` — Find maximum and minimum using functions
+* `inline.cpp` — Calculator using inline functions
 
-20. Program to create separate arrays for even and odd elements.
+### 07 — Object-Oriented Programming
 
-21. Program to check the frequency of an element.
+* `structure.cpp` — Basic structure implementation
+* `class.cpp` — Class, object, data members and member functions
+* `constructor.cpp` — Basic constructor program
+* `static.cpp` — Static data member
+* `object_as_argument.cpp` — Passing an object as an argument
 
-22. Program to find the first missing element.
+---
 
-23. Program to perform linear search.
+## 📊 Progress
 
-24. Program to perform binary search.
+**57 C++ programs and counting...**
 
-25. Program to print the Fibonacci series.
+This repository is part of my ongoing journey to build strong programming fundamentals and prepare for **DSA and problem-solving**.
 
-26. Program to reverse a number using a while loop.
+---
 
-27. Program to check whether a number is a palindrome or not.
+## 🎯 Learning Goals
 
-28. Program to check whether a string is a palindrome or not.
+* Strengthen C++ fundamentals
+* Improve logical thinking and problem-solving
+* Practice arrays and strings
+* Understand functions and OOP concepts
+* Build a strong foundation for DSA
+* Maintain consistent coding practice
 
-29. Program to reverse a string.
+---
 
-30. Program to count the number of vowels in a string.
+## 🛠️ Tech Stack
 
-31. Program to count the number of words in a string.
+**Language:** C++
+**Editor:** VS Code
+**Platform:** GitHub
 
-32. Program to compare two strings, concatenate them, and print the result.
+---
 
-33. Program to convert a given string into lowercase and uppercase.
+## 🚀 What's Next?
 
-34. Program to toggle the case of each character of a string.
+> Keep practicing. Keep solving. Keep improving.
 
-35. Program to convert the first letter of each word into uppercase.
+More programs and DSA problems will be added as I continue learning C++.
 
-36. Program to find the number of digits in a number.
+---
 
-37. Program to calculate the sum of n natural numbers.
-
-38. Program to calculate the LCM of two numbers.
-
-39. Program to check whether a given year is a leap year or not.
-
-40. Program to find the number of days in a given month.
-
-41. Program to check whether a given number is a perfect number or not.
-
-42. Program to print all perfect numbers between a given interval.
-
-43. Program to print all prime numbers between a given interval.
-
-44. Program to calculate profit and loss.
-
-45. Program to find the roots of a quadratic equation.
-
-46. Program to check the validity of a triangle.
-
-47. Program to check voter eligibility.
-
-48. Program to check whether an entered character is uppercase, lowercase, or a digit.
-
-49. Program to find the cube of a number using a function.
-
-50. Program to find the maximum and minimum between two numbers using a function.
-
-51. Program to create a calculator using inline functions.
-
-52. Program to understand static data members in C++.
-
-53. Program to understand the concept of structures in C++.
-
-54. Program to understand the concept of passing an object as an argument.
-
-55. Basic C++ program demonstrating the concept of a constructor.
+### ⭐ If you find this repository useful, feel free to explore the programs.
